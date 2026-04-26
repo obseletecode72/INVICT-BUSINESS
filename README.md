@@ -4,6 +4,6 @@ voce pode ser tanto uma pessoa olhando meu repositorio quanto alguem tentando cr
 
 se estiver tentando crackear, tu nao vai conseguir nada, ta tudo criptografado, isso e um monte de bytes random pra voce
 
-se for uma pessoa aleatorioa olhando este repositorio, ignore e olhe meus outros projetos <3
+se for uma pessoa aleatoria olhando este repositorio, ignore e olhe meus outros projetos <3
 
 flwww
